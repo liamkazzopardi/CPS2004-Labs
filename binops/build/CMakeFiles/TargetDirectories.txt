@@ -1,0 +1,4 @@
+/home/liamazzopardi/binops/build/CMakeFiles/binops.dir
+/home/liamazzopardi/binops/build/CMakeFiles/binopsStruct.dir
+/home/liamazzopardi/binops/build/CMakeFiles/edit_cache.dir
+/home/liamazzopardi/binops/build/CMakeFiles/rebuild_cache.dir
