@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/liamazzopardi/binops/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/binops.dir/main.cpp.o -c /home/liamazzopardi/binops/main.cpp",
+  "file": "/home/liamazzopardi/binops/main.cpp",
+  "output": "CMakeFiles/binops.dir/main.cpp.o"
+},
+{
+  "directory": "/home/liamazzopardi/binops/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/binopsStruct.dir/struct_binops.cpp.o -c /home/liamazzopardi/binops/struct_binops.cpp",
+  "file": "/home/liamazzopardi/binops/struct_binops.cpp",
+  "output": "CMakeFiles/binopsStruct.dir/struct_binops.cpp.o"
+}
+]
