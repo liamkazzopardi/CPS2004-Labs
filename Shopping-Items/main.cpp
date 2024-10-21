@@ -100,6 +100,7 @@ public:
 };
 
 class ToyItems : public shoppingItems{
+private:
     int suitableAge;
 public:
     ToyItems(string name, double price, int quantity, int suitableAge)
@@ -142,7 +143,7 @@ int main(){
             } 
             else if (itemType == 2) {
                 string warrantyPeriod;
-                cout << "Enter warranty period: ";
+                cout << "Enter warranty period (years): ";
                 cin >> warrantyPeriod;
                 items.push_back(new Electronics(name, price, quantity, warrantyPeriod));
             } 
@@ -162,7 +163,7 @@ int main(){
             } 
             else if (itemType == 5) {
                 int suitableAge;
-                cout << "Enter suitable age: ";
+                cout << "Enter suitable age (in years): ";
                 cin >> suitableAge;
                 items.push_back(new ToyItems(name, price, quantity, suitableAge));
             } 
