@@ -1,0 +1,1 @@
+/usr/bin/c++ -g "CMakeFiles/Shopping-Items-Extended.dir/main.cpp.o" -o Shopping-Items-Extended 

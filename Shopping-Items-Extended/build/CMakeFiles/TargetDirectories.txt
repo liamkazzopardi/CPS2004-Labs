@@ -1,0 +1,3 @@
+/home/liamazzopardi/Shopping-Items-Extended/build/CMakeFiles/Shopping-Items-Extended.dir
+/home/liamazzopardi/Shopping-Items-Extended/build/CMakeFiles/edit_cache.dir
+/home/liamazzopardi/Shopping-Items-Extended/build/CMakeFiles/rebuild_cache.dir

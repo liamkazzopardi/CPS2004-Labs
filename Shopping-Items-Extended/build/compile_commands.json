@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/liamazzopardi/Shopping-Items-Extended/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/Shopping-Items-Extended.dir/main.cpp.o -c /home/liamazzopardi/Shopping-Items-Extended/main.cpp",
+  "file": "/home/liamazzopardi/Shopping-Items-Extended/main.cpp",
+  "output": "CMakeFiles/Shopping-Items-Extended.dir/main.cpp.o"
+}
+]
